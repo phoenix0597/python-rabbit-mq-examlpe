@@ -12,13 +12,13 @@ pip install -r requirements.txt
 docker-compose up -d
 ```
 
-3. Запуск консьюмера сообщений:
+3. Запуск консюмера сообщений:
 
 ```bash
 python consumer.py
 ```
 
-4. Запуск продьюсера сообщений:
+4. Запуск продюсера сообщений:
 
 ```bash
 python producer.py
