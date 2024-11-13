@@ -12,6 +12,8 @@ pip install -r requirements.txt
 docker-compose up -d
 ```
 
+Проверить админ-панель RabbitMQ: http://localhost:15672 (пользователь: user, пароль: password)
+
 3. Запуск консюмера сообщений:
 
 ```bash
